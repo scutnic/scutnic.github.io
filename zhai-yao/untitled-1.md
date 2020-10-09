@@ -2,18 +2,13 @@
 
 ## 登录账号
 
+访问华南理工大学高性能计算平台网址[https://login.lico.scut.edu.cn/](https://login.lico.scut.edu.cn/#/login?redirect=%2Fmain%2Fjob-manage) 输入网络中心给出的独立账号密码登录。
+
+![](../.gitbook/assets/qq-jie-tu-20201009095453.jpg)
+
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ 目前暂未支持统一账号登录，如果没有账号，需要向网络中心提交书面申请。
 {% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 
