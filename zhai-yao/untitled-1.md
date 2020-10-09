@@ -8,5 +8,9 @@
  目前暂未支持统一账号登录。如果没有账号，需要向网络中心提交书面申请。
 {% endhint %}
 
+{% hint style="warning" %}
+如果出现下图提示，
+{% endhint %}
 
+![](../.gitbook/assets/qq-jie-tu-20201009144642.jpg)
 
