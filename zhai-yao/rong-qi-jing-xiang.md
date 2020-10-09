@@ -1,6 +1,6 @@
 # 容器镜像
 
-华南理工大学高性能计算平台支持Singularity容器平台，支持在不同镜像上运行不同的AI作业模板。
+华南理工大学高性能计算平台支持Singularity容器平台，支持在不同镜像上运行不同的AI作业模板，使用容器镜像，可以在本地调试好环境之后再放到平台上运行，还能直接使用做好的环境，免去自己编译。
 
 ## 本地安装Singularity
 
@@ -48,7 +48,18 @@ singularity --version
 
 ## 查找镜像
 
-Singularity容器支持从Docker容器转换，前往最大的容器网站
+Singularity容器支持从Docker容器转换，前往最大的docker仓库网站[https://hub.docker.com](https://hub.docker.com/) 查找您需要的镜像，在镜像的Tags标签找到所需容器的pull命令。
+
+新建config.def，填入需要拉取的镜像。
+
+```text
+Bootstrap: docker 
+From:jrottenberg/ffmpeg:3.4.7-nvidia1804
+```
+
+
+
+
 
 ## 制作镜像
 
