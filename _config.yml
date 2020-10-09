@@ -1,1 +1,6 @@
-theme: jekyll-theme-midnight
+theme: snark
+highlight:
+  enable: false
+  line_number: false
+  auto_detect: false
+  tab_replace:
