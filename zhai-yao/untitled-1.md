@@ -9,7 +9,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-如果出现下图提示，
+如果出现下图提示，请在页面中直接打上“thisisunsafe”，自动解除告警。
 {% endhint %}
 
 ![](../.gitbook/assets/qq-jie-tu-20201009144642.jpg)
