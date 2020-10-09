@@ -2,8 +2,6 @@
 
 ## 登录账号
 
-Becoming a super hero is a fairly straight forward process:
-
 ```
 $ give me super-powers
 ```
